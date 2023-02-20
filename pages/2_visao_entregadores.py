@@ -83,7 +83,7 @@ def top_delivers(df1, top_asc):
 #---------------------
 #importando o arquivo
 #---------------------
-df = pd.read_csv('dataset\train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 #-------------------
 #limpando os dados
