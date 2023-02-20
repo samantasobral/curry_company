@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 import folium
 import streamlit as st
-import regex as re
+import re
 from PIL import Image
 from streamlit_folium import folium_static
 from datetime import datetime
