@@ -138,7 +138,7 @@ def country_map(df1):
 #-----------------------
 #importando o arquivo
 #---------------------
-df = pd.read_csv('/dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 #-----------------------
 #limpando os dados
